@@ -25,3 +25,9 @@ h2 {
 .green{
   background-color: #56A958; 
 }
+@media all and (max-width: 600px) {
+    img {
+        display: inline-block;
+        width: 50%;
+    }
+}
