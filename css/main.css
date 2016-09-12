@@ -1,0 +1,18 @@
+nav{
+  margin-bottom: 0%;
+}
+#paisaje{
+  background-image: url("../img/carousel-bg.jpg");
+  background-size: cover;
+  background-size: center;
+  height: 30em;
+}
+h1 {
+  color: white;
+  padding-top: 5%;
+}
+#portada{
+  color: white;
+  padding-top: 3%;
+  
+}
